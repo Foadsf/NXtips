@@ -107,3 +107,4 @@ A free collection of tips/tricks, keyboard shortcuts, best practices, for SIEMEN
 |         Customize       |      <kbd>Ctrl</kbd> + 1    |
 |     User   interface    |      <kbd>Ctrl</kbd> + 2    |
 |      Layer settings     |     <kbd>Ctrl</kbd> + L     |
+|      Expressions     |     <kbd>Ctrl</kbd> + E     |
