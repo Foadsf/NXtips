@@ -1,7 +1,7 @@
 # NXtips
 A free collection of tips/tricks, keyboard shortcuts, best practices, for SIEMENS NX.
 
-Feel free to ask questions via Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/fsfarimani?style=flat-square)](https://twitter.com/fsfarimani) or open new issues here on GitHub. Pull requests are also highly welcomed.
+Feel free to ask questions via Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/fsfarimani?style=flat-square)](https://twitter.com/fsfarimani) or [open new issues](https://github.com/Foadsf/NXtips/issues) here on GitHub. Pull requests are also highly welcomed.
 
 ## Licence
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
