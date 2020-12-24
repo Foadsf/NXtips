@@ -123,5 +123,6 @@ If you need help for your NX related questione:
 |      Touch Mode     |     F4     |
 
 ## GUI:
-
-![Alt text](./GUI.svg)
+<pre>
+<img src="./GUI.svg" width="700">               
+</pre>
