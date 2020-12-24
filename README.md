@@ -3,7 +3,7 @@ A free collection of tips/tricks, keyboard shortcuts, best practices, for SIEMEN
 
 Feel free to ask questions via Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/fsfarimani?style=flat-square)](https://twitter.com/fsfarimani) or [open new issues](https://github.com/Foadsf/NXtips/issues) here on GitHub. Pull requests are also highly welcomed.
 
-## Licence
+## Licence:
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Social:
@@ -121,3 +121,7 @@ If you need help for your NX related questione:
 |      Layer settings     |     <kbd>Ctrl</kbd> + L     |
 |      Expressions     |     <kbd>Ctrl</kbd> + E     |
 |      Touch Mode     |     F4     |
+
+## GUI:
+
+![Alt text](./GUI.svg)
