@@ -120,3 +120,4 @@ If you need help for your NX related questione:
 |     User   interface    |      <kbd>Ctrl</kbd> + 2    |
 |      Layer settings     |     <kbd>Ctrl</kbd> + L     |
 |      Expressions     |     <kbd>Ctrl</kbd> + E     |
+|      Touch Mode     |     F4     |
