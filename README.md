@@ -14,7 +14,6 @@ If you need help for your NX related questione:
 * There is also a channel for [#siemens-nx](https://discord.gg/YM2SFah) on Elmer's Discord server [![Discord](https://img.shields.io/discord/412182089279209474?style=flat-square)](https://discord.gg/YM2SFah)
 * There is a [Siemens: UG/NX](https://www.eng-tips.com/threadminder.cfm?pid=561) on ENG-TIPS
 * If you are part of the VDL ETG you may try the [internal Yammer group](https://www.yammer.com/vdletg.com/#/threads/inGroup?type=in_group&feedId=33947099136&view=all) (you need `@vdletg.com` email address)
-* Or if you have access to the ASML network you may try the [internal Yammer group](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI5NDI2OTgifQ/all) (you need `@asml.com` email address to log in)
 * [Siemens NX (Unigraphics) Users](https://grabcad.com/groups/siemens-nx-unigraphics-users/) on GRABCAD
 
 
