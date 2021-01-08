@@ -21,12 +21,12 @@ If you need help for your NX related questione:
 
 ### File:
 
-|      Action      |       Keyboard binding      |
-|:----------------:|:---------------------------:|
-|        Save      |          <kbd>Ctrl</kbd>   + S         |
-|        Open      |          <kbd>Ctrl</kbd>   + O         |
-|        New       |          <kbd>Ctrl</kbd>   + N         |
-|     Save   as    |     <kbd>Ctrl</kbd>   + <kbd>⇧ Shift</kbd> + S/A    |
+|   Action  |              Keyboard binding             |         ID        |
+|:---------:|:-----------------------------------------:|:-----------------:|
+|    Save   |            <kbd>Ctrl</kbd> + S            | `UG_FILE_SAVE_PART` |
+|    Open   |             <kbd>Ctrl</kbd>+ O            |    `UG_FILE_OPEN`   |
+|    New    |             <kbd>Ctrl</kbd>+ N            |    `UG_FILE_NEW`    |
+| Save   as | <kbd>Ctrl</kbd>+ <kbd>⇧ Shift</kbd> + S/A |  `UG_FILE_SAVE_AS`  |
 
 ### Edit:
 
