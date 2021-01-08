@@ -21,12 +21,18 @@ If you need help for your NX related questione:
 
 ### File:
 
-|   Action  |              Keyboard binding             |         ID        |
-|:---------:|:-----------------------------------------:|:-----------------:|
-|    Save   |            <kbd>Ctrl</kbd> + S            | `UG_FILE_SAVE_PART` |
-|    Open   |             <kbd>Ctrl</kbd>+ O            |    `UG_FILE_OPEN`   |
-|    New    |             <kbd>Ctrl</kbd>+ N            |    `UG_FILE_NEW`    |
-| Save   as | <kbd>Ctrl</kbd>+ <kbd>⇧ Shift</kbd> + S/A |  `UG_FILE_SAVE_AS`  |
+|          Command         |                      Keyboard binding                     |                 ID                 |
+|:------------------------:|:---------------------------------------------------------:|:----------------------------------:|
+|           Save           |                    <kbd>Ctrl</kbd> + S                    |         `UG_FILE_SAVE_PART`        |
+|           Open           |                    <kbd>Ctrl</kbd> + O                    |           `UG_FILE_OPEN`           |
+|            New           |                    <kbd>Ctrl</kbd> + N                    |            `UG_FILE_NEW`           |
+|          Save as         |          <kbd>Ctrl</kbd> + <kbd>⇧ Shift</kbd> + A         |          `UG_FILE_SAVE_AS`         |
+|   Save as new item type  | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>⇧ Shift</kbd> + I |   `UI_FILE_SAVE_AS_NEW_ITEM_TYPE`  |
+| Save as non-master parts | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>⇧ Shift</kbd> + N | `UI_FILE_SAVE_AS_NON_MASTER_PARTS` |
+|           Plot           |                    <kbd>Ctrl</kbd> + P                    |           `UG_FILE_PLOT`           |
+|       Execute-Grip       |                    <kbd>Ctrl</kbd> + G                    |         `UG_FILE_RUN_GRIP`         |
+|    Execute-Debug Grip    |          <kbd>Ctrl</kbd> + <kbd>⇧ Shift</kbd> + G         |      `UG_FILE_RUN_GRIP_DEBUG`      |
+|      Execute-NXOpen      |                    <kbd>Ctrl</kbd> + U                    |         `UG_FILE_RUN_UFUN`         |
 
 ### Edit:
 
