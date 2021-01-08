@@ -36,14 +36,15 @@ If you need help for your NX related questione:
 
 ### Edit:
 
-|     Action    |  Keyboard binding |
-|:-------------:|:-----------------:|
-|      Undo     |     <kbd>Ctrl</kbd>   + Z    |
-|      Redo     |     <kbd>Ctrl</kbd>   + Y    |
-|       Cut     |     <kbd>Ctrl</kbd>   + X    |
-|      Copy     |     <kbd>Ctrl</kbd>   + C    |
-|      Paste    |     <kbd>Ctrl</kbd>   + V    |
-|     Delete    |     <kbd>Ctrl</kbd>   + D    |
+|    Command    |           Keyboard binding           |            ID           |
+|:-------------:|:------------------------------------:|:-----------------------:|
+|      Undo     |          <kbd>Ctrl</kbd> + Z         |      `UG_EDIT_UNDO`     |
+|      Redo     |          <kbd>Ctrl</kbd> + Y         |      `UG_EDIT_REDO`     |
+|      Cut      |          <kbd>Ctrl</kbd> + X         |      `UG_EDIT_CUT`      |
+|      Copy     |          <kbd>Ctrl</kbd> + C         |      `UG_EDIT_COPY`     |
+|     Paste     |          <kbd>Ctrl</kbd> + V         |     `UG_EDIT_PASTE`     |
+|     Delete    |          <kbd>Ctrl</kbd> + D         |     `UG_EDIT_DELETE`    |
+| Paste special | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + V | `UG_EDIT_PASTE_SPECIAL` |
 
 ### Modeling:
 
