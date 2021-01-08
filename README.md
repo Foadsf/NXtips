@@ -56,8 +56,8 @@ If you need help for your NX related questione:
 
 |              Command              |           Keyboard binding           |                 ID                |
 |:---------------------------------:|:------------------------------------:|:---------------------------------:|
-|               Front               | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + F |     UG_VIEW_POPUP_ORIENT_FRONT    |
-|                Top                | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + T |      UG_VIEW_POPUP_ORIENT_TOP     |
+|               Front               | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + F |    `UG_VIEW_POPUP_ORIENT_FRONT`   |
+|                Top                | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + T |      `UG_VIEW_POPUP_ORIENT_TOP`   |
 |                Left               | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + L |    `UG_VIEW_POPUP_ORIENT_LEFT`    |
 |               Right               | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + R |    `UG_VIEW_POPUP_ORIENT_RIGHT`   |
 |             Trimetric             |            <kbd>Home</kbd>           |   `UG_VIEW_POPUP_ORIENT_TFRTRI`   |
