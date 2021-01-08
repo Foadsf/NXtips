@@ -46,31 +46,31 @@ If you need help for your NX related questione:
 |     Delete    |          <kbd>Ctrl</kbd> + D         |     `UG_EDIT_DELETE`    |
 | Paste special | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + V | `UG_EDIT_PASTE_SPECIAL` |
 
-### Modeling:
+### Modeling: 
 
-|     Action     | Keyboard binding |
-|:--------------:|:----------------:|
-|     Extrude    |         X        |
+| Command | Keyboard binding |               ID               |
+|:-------:|:----------------:|:------------------------------:|
+| Extrude |         X        | `UG_MODELING_EXTRUDED_FEATURE` |
 
 ### View
 
-|                 Action                |     Keyboard binding    |
-|:-------------------------------------:|:-----------------------:|
-|                  Front                |     <kbd>Ctrl</kbd>   + <kbd>Alt</kbd> + F    |
-|                   Top                 |     <kbd>Ctrl</kbd>   + <kbd>Alt</kbd> + T    |
-|                  Back                 |     <kbd>Ctrl</kbd>   + <kbd>Alt</kbd> + B    |
-|                  Left                 |     <kbd>Ctrl</kbd>   + <kbd>Alt</kbd> + L    |
-|                  Right                |     <kbd>Ctrl</kbd>   + <kbd>Alt</kbd> + R    |
-|                 Bottom                |     <kbd>Ctrl</kbd>   + <kbd>Alt</kbd> + O    |
-|                Trimetric              |           Home          |
-|                Isometric              |            End          |
-| Orients the view to active sketch     |       <kbd>⇧ Shift</kbd>   + F8      |
-|  Snap to the closest standard view    |            F8           |
-|                   Fit                 |        <kbd>Ctrl</kbd>   + F       |
-|              WCS   display            |             W           |
-|                 Refresh               |            F5           |
-|             Edit   section            |        <kbd>Ctrl</kbd>   + H       |
-|          Toggle   full screen         |       <kbd>Alt</kbd>   + <kbd>↵ Enter</kbd>     |
+|              Command              |           Keyboard binding           |                 ID                |
+|:---------------------------------:|:------------------------------------:|:---------------------------------:|
+|               Front               | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + F |     UG_VIEW_POPUP_ORIENT_FRONT    |
+|                Top                | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + T |      UG_VIEW_POPUP_ORIENT_TOP     |
+|                Left               | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + L |    `UG_VIEW_POPUP_ORIENT_LEFT`    |
+|               Right               | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + R |    `UG_VIEW_POPUP_ORIENT_RIGHT`   |
+|             Trimetric             |            <kbd>Home</kbd>           |   `UG_VIEW_POPUP_ORIENT_TFRTRI`   |
+|             Isometric             |            <kbd>End</kbd>            |   `UG_VIEW_POPUP_ORIENT_TFRISO`   |
+| Orients the view to active sketch |  <kbd>⇧ Shift</kbd> + <kbd>F8</kbd>  | `UG_SKETCH_ORIENT_VIEW_TO_SKETCH` |
+| Snap to the closest standard view |             <kbd>F8</kbd>            |     `UG_VIEW_POPUP_SNAP_VIEW`     |
+|                Fit                |         <kbd>Ctrl</kbd> + F          |           `UG_VIEW_FIT`           |
+|            WCS display            |                   W                  |          `UG_WCS_DISPLAY`         |
+|              Refresh              |             <kbd>F5</kbd>            |       `UG_VIEW_POPUP_REFRESH`     |
+|            Edit section           |         <kbd>Ctrl</kbd> + H          |        `UG_VIEW_SECTIONING`       |
+|         Toggle full screen        | <kbd>Alt</kbd> + <kbd>⏎ Enter</kbd>  |     `UG_VIEW_FULL_SCREEN_MODE`    |
+|                Zoom               |             <kbd>F6</kbd>            |        `UG_VIEW_POPUP_ZOOM`       |
+|               Rotate              |             <kbd>F7</kbd>            |       `UG_VIEW_POPUP_ROTATE`      |
 
 ### Sketch:
 
