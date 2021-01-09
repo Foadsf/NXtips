@@ -74,23 +74,23 @@ If you need help for your NX related questione:
 
 ### Sketch:
 
-|             Action             |    Keyboard binding   |
-|:------------------------------:|:---------------------:|
-|             Profile            |            Z          |
-|            Rectangle           |            R          |
-|               Line             |            L          |
-|               Arc              |            A          |
-|              Circle            |            O          |
-|             Polygon            |            P          |
-|         Studio   spline        |            S          |
-|           Quick   trim         |            T          |
-|          Quick   extend        |            E          |
-|              Fillet            |            F          |
-|        Rapid   dimension       |            D          |
-|      Geometric   constrains    |            C          |
-|         Finish   sketch        |       <kbd>Ctrl</kbd>   + Q      |
-|            Duplicate           |      <kbd>Ctrl</kbd>   + drag    |
-|     Move   Orthographically    |     <kbd>⇧ Shift</kbd>   + drag    |
+|         Command         |      Keyboard binding     |             ID            |
+|:-----------------------:|:-------------------------:|:-------------------------:|
+|         Profile         |             Z             |    `UG_SKETCH_PROFILE`    |
+|        Rectangle        |             R             |   `UG_SKETCH_RECTANGLE`   |
+|           Line          |             L             |      `UG_SKETCH_LINE`     |
+|           Arc           |             A             |      `UG_SKETCH_ARC`      |
+|          Circle         |             O             |     `UG_SKETCH_CIRCLE`    |
+|         Polygon         |             P             |                           |
+|      Studio spline      |             S             |                           |
+|       Quick   trim      |             T             |                           |
+|      Quick   extend     |             E             |                           |
+|          Fillet         |             F             |                           |
+|    Rapid   dimension    |             D             |                           |
+|  Geometric   constrains |             C             |                           |
+|     Finish   sketch     |    <kbd>Ctrl</kbd> + Q    | `UG_DIRECT_SKETCH_FINISH` |
+|        Duplicate        |   <kbd>Ctrl</kbd> + drag  |                           |
+| Move   Orthographically | <kbd>⇧ Shift</kbd> + drag |                           |
 
 * Hold the <kbd>Alt</kbd> key while draging/selecting to turn off the automatic constraint
 
